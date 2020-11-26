@@ -1,0 +1,22 @@
+.menutop {
+	overflow: hidden;
+	font-size: 17px;
+	font-family: helvetica, arial;
+}
+.menutop a {
+	float: left;
+	color: #141415;
+	background-color: rgba(131, 14, 209, .5);
+	text-align: center;
+	padding: 10px 25px;
+	margin: 5px;
+	transition: 0.3s;
+	text-decoration: none;
+}
+
+.menutop a:hover {
+	color: #F0C3CA;
+	background-color: white;
+	border-bottom: 3px solid;
+	border-color: #8006F3;
+}

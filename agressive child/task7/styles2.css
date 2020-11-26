@@ -1,0 +1,66 @@
+.container {
+	width: 100%;
+	font-family: 'Fredoka One', cursive;
+  background-color: #F2F2F2;
+}
+
+.div1 {
+	height: 100px;
+	background-image: url(https://esports.dreamhack.com/wp-content/uploads/elementor/thumbs/DreamHack-India-Invitational_Dota2_Banner-nx9ji4itytjr20wryztar60rnonu4kmhkh3sgft66g.jpg);
+	border-bottom: 0px;
+}
+
+
+.div2 {
+    width:20%; 
+    float:left;    
+    overflow:hidden;
+    height: 552px;
+}
+
+.div3 {
+    width:25%; 
+    font-size: 90%;
+    float:left; 
+    overflow:hidden;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.div4 {
+    width:55%; 
+    float:left;      
+    overflow:hidden;
+    height: 552px;
+    text-align: center;
+}
+
+img {
+	float: left;
+	width: 64px
+}
+
+li {
+list-style-type: none; 
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  }
+
+.s:hover {
+  text-decoration: underline;
+}
+
+.img1 {
+	position: relative;
+	top: 500px;
+	left: 300px;
+}
+
+footer {
+  background-color: #BDBDBD; 
+  margin-top: 850px;
+}
